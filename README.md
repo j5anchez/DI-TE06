@@ -31,7 +31,7 @@ Creado y probado en Visual Studio 2019 y Visual Studio 2022.
 
 ### Instalación 🔧
 
-Abrir Dashboard.sln con VS y ejecutar.
+Abrir Dashboard.sln con VS y ejecutar o descargar [archivo de instalacion](https://github.com/j5anchez/DI-TE06/blob/master/InstalacionDashBoard/Release/InstalacionDashBoard.msi)
 
 ## Construido con 🛠️
 
