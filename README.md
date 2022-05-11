@@ -51,7 +51,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 ## Licencia 📄
 
-Este proyecto está bajo (((licencia)))
+Este proyecto está bajo GNU GENERAL PUBLIC LICENSE
 
 ## Agradecimientos 🎁
 
